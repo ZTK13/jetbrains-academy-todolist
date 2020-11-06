@@ -1,0 +1,15 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: |-
+    def final_deposit_amount(amount=1000, interest):
+        pass
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/9554#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9554#comment">JetBrains
+    Academy</a></html>
+  time: Wed, 04 Nov 2020 08:21:03 UTC
+record: -1

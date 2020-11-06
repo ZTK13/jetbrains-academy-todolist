@@ -1,0 +1,13 @@
+type: code
+files:
+- name: main.py
+  visible: true
+  text: oceans = ['Atlantic', 'Pacific', 'Indian', 'Southern', 'Arctic']
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7469#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7469#comment">JetBrains
+    Academy</a></html>
+  time: Tue, 03 Nov 2020 14:48:00 UTC
+record: -1

@@ -1,0 +1,20 @@
+type: code
+custom_name: Shine on!
+files:
+- name: main.py
+  visible: true
+  text: |-
+    class Star:
+        def __init__(self, name, spectral_class):
+            self.name = name
+            self.spectral_class = spectral_class
+
+    # create a child class here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/7239#comment
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/7239#comment">JetBrains
+    Academy</a></html>
+  time: Tue, 03 Nov 2020 11:51:16 UTC
+record: -1
